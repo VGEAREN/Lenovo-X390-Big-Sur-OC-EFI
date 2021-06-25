@@ -1,7 +1,8 @@
 ## Table of Contents
 
-- [Device Information](#Device Information)
+- [Device Information](#device-information)
 - [Usage](#usage)
+- [Credits](#credits)
 
 
 ## Device Information
@@ -21,4 +22,10 @@
 
 ## Usage
 
-Just simply replace your EFI Folder to this relese
+If you have the same computer as me, you just need to replace your EFI with the EFI in the current directory.
+
+## Credits
+- [@mendax1234](https://github.com/mendax1234) for [ThinkpadX390-Opencore-EFI](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI)
+- [Pcbeta](http://bbs.pcbeta.com/) for tutorial
+- [Heipg](https://heipg.cn/) for tutorial
+- [Mfpud](https://www.mfpud.com/macos/dmg/) for MacOS DMG
