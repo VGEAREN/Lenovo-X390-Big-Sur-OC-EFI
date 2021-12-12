@@ -20,5 +20,6 @@ jobs:
         if: startsWith(github.ref, 'refs/tags/v')
         with:
           files: ./EFI.zip
+          name: Lenovo-X390-Big-Sur-OC-EFI
         env:
           GITHUB_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
