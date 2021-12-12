@@ -3,6 +3,7 @@
 - [Device Information](#device-information)
 - [Usage](#usage)
 - [Credits](#credits)
+- [Support](#support)
 
 
 ## Device Information
@@ -23,6 +24,33 @@
 ## Usage
 
 If you have the same computer as me, you just need to replace your EFI with the EFI in the current directory.
+
+## Support
+
+**Catalina**
+
+- 10.15.2
+- 10.15.3
+- 10.15.4
+- 10.15.5
+- 10.15.6
+- 10.15.7
+
+**Big Sur**
+
+- 11.0.1
+- 11.1
+- 11.2
+- 11.2.1
+- 11.2.2
+- 11.2.3
+- 11.3
+- 11.3.1
+- 11.4
+- 11.5
+- 11.5.1
+- 11.5.2
+- 11.6.1
 
 ## Credits
 - [@mendax1234](https://github.com/mendax1234) for [ThinkpadX390-Opencore-EFI](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI)
