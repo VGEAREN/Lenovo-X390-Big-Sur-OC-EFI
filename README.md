@@ -4,6 +4,8 @@
 - [Usage](#usage)
 - [Credits](#credits)
 
+## Supported
+Monterey 12.5
 
 ## Device Information
 | Specifications | Details |
