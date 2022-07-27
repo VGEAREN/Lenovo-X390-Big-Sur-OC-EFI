@@ -5,9 +5,6 @@
 - [Credits](#credits)
 - [Support](#support)
 
-## Supported
-Monterey 12.5
-
 ## Device Information
 | Specifications | Details |
 |:---|:---|
@@ -53,6 +50,9 @@ If you have the same computer as me, you just need to replace your EFI with the 
 - 11.5.1
 - 11.5.2
 - 11.6.1
+
+**Monterey**
+- 12.5
 
 ## Credits
 - [@mendax1234](https://github.com/mendax1234) for [ThinkpadX390-Opencore-EFI](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI)
